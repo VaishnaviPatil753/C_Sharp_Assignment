@@ -1,0 +1,12 @@
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\bin\Debug\Student_Management_System2022.exe
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\bin\Debug\Student_Management_System2022.pdb
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\obj\x86\Debug\Student_Management_System2022.frm_Login.resources
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\obj\x86\Debug\Student_Management_System2022.Properties.Resources.resources
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\obj\x86\Debug\Student_Management_System2022.csproj.GenerateResource.Cache
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\obj\x86\Debug\Student_Management_System2022.exe
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\obj\x86\Debug\Student_Management_System2022.pdb
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\obj\x86\Debug\Student_Management_System2022.csprojResolveAssemblyReference.cache
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\obj\x86\Debug\Student_Management_System2022.frm_Add_New_Student.resources
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\obj\x86\Debug\Student_Management_System2022.frm_Search_Student_Details.resources
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\obj\x86\Debug\Student_Management_System2022.frm_View_All_Student_List.resources
+C:\C# Assignment\Assignment No3\Student_Management_System2022\Student_Management_System2022\bin\Debug\Student_Management_System2022.exe.config
